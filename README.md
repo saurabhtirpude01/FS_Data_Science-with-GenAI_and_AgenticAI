@@ -1,1 +1,1 @@
-# FSDS-with-GenAI
+# FS_Data_Science-with-GenAI_and_AgenticAI
